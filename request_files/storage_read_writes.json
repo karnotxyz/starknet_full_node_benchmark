@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "jsonrpc": "2.0",
+    "method": "starknet_call",
+    "params": [
+        {
+            "contract_address": "0x75b34ecdfade7d930168bb397e61f6437b7dc0c490ebe5d06fdb06601772b12",
+            "entry_point_selector": "0x3d2ff80b7cdd3a3bcc5a608a91c74cfbf841b2db8fcae042c02096743abe90f",
+            "calldata": ["0xbb8", "0x0"]
+        },
+        "pending"
+    ]
+}
